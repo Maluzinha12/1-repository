@@ -1,2 +1,1 @@
-# 1-repository
-para teste
+opa galera, começamos a aprender 
